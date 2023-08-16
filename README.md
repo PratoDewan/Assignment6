@@ -7,7 +7,6 @@ Welcome to the repository for the BJIT Annual Tech Conference registration page!
 - [About](#about)
 - [Sessions](#sessions)
 - [Registration Form](#registration-form)
-- [Contact](#contact)
 
 ## About
 
